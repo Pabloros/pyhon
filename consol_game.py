@@ -40,7 +40,7 @@ holder = ''
 for s in secKey:
     holder += '° '
 
-print(secKey)
+#print(secKey)
 
 
 print("""
